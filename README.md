@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mahdi Falamarzi</h1>
-<h3 align="center">Software Engineer | JS Developer | Frontend Developer</h3>
+<h3 align="center">Software Engineer | Frontend Developer | MERN Stack</h3>
 <p align="center">
 <a href="https://www.mahdifalamarzi.info/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg" alt="mahdi-falamarzi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahdi-falamarzi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
@@ -10,11 +10,11 @@
 
 <p align="center">
   <em>
-    This is ME, Mahdi, I am a software engineer with more than 4 years of technical background. I have been working as a Front End Developer with industry experience building websites, web applications and Mobile Apps I specialize in JavaScript and have professional experience working with React. I also have experience with React Native, Node JS, Next JS, Redux. I’m eager about Javascript technology and Interested in full-stack web development.
-I've excellent communication, staff trainer, management ability and demonstrated a history of working in software companies. Strong engineering professional with a Bachelor's Degree in Technology Engineering Semester from the University of Applied Science and Technology.
+    This is ME, Mahdi, I am a software engineer with more than 5 years of technical background. I have been working as a Front End Developer with industry experience building websites, web applications, and Mobile Apps I specialize in JavaScript and have professional experience working with React. I also have experience with React Native, Node JS, Next JS, and Redux. I’m eager about Javascript technology and Interested in full-stack web development.
+I've excellent communication, staff trainer, and management ability and demonstrated a history of working in software companies. Strong engineering professional with a Bachelor's Degree in Technology Engineering Semester from the University of Applied Science and Technology.
   </em> 
   <br>
-  I'm always open to taking up new challenges, helping me improve myself and moving forward.
+  I'm always open to taking up new challenges, helping me improve myself, and moving forward.
 </p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
