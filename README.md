@@ -1,28 +1,46 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mahdi Falamarzi</h1>
-<h3 align="center">Software Engineer | Frontend Developer | MERN Stack</h3>
+<h3 align="center">Fullstack Engineer (Frontend Focus) | Spring Boot | Node.js | React, Next.js, React Native</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/mahdi-falamarzi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://twitter.com/MahdiFalamarzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aksia" height="30" width="40" /></a>
- <a href = "mailto: mehdi.kindly@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/mahdi-falamarzi/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/MahdiFalamarzi" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="mailto:mehdi.kindly@gmail.com">
+    <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" />
+  </a>
 </p>
 
 <p align="center">
   <em>
-    This is ME, Mahdi, I am a software engineer with more than 5 years of technical background. I have been working as a Front End Developer with industry experience building websites, web applications, and Mobile Apps I specialize in JavaScript and have professional experience working with React. I also have experience with React Native, Node JS, Next JS, and Redux. I’m eager about Javascript technology and Interested in full-stack web development.
-I've excellent communication, staff trainer, and management ability and demonstrated a history of working in software companies. Strong engineering professional with a Bachelor's Degree in Technology Engineering Semester from the University of Applied Science and Technology.
-  </em> 
-  <br>
-  I'm always open to taking up new challenges, helping me improve myself, and moving forward.
+    Software Engineer with 7+ years of experience specializing in frontend development. Proven expertise in building scalable web applications and mobile solutions using modern JavaScript technologies. Strong full-stack capabilities with React, React Native, Node.js, and Spring Boot, complemented by excellent communication skills and team leadership experience.
+  </em>
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs..._**
+<p align="center">
+  <em>
+    Holder of a Bachelor's Degree in Technology Engineering from the University of Applied Science and Technology. Passionate about JavaScript ecosystem and open-source contributions.
+  </em>
+</p>
 
-✔ Pronouns: **_He/His_** or **_TeamPlayer_**😉 <br>
-✔ I’m currently Developing with **React** & **React Native**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I like **JS** technologies<br>
-✔ I regularly write articles on [Dev](https://dev.to/mahdi_falamarzi) <br>
+<br>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Currently..._**
+
+🎯 **Focus:** React & React Native Development  
+🤝 **Open** to open-source collaborations and new challenges  
+💼 **Seeking** opportunities to contribute to impactful projects  
+📝 **Writing** technical articles on [Dev.to](https://dev.to/mahdi_falamarzi)
+
+<br>
+
+**_Tech Stack_**  
+• **Frontend:** React, Next.js, React Native, Redux  
+• **Backend:** Node.js, Spring Boot  
+• **Languages:** JavaScript (ES6+), TypeScript, Java  
+• **Tools & Methods:** Agile Development, Team Training, Code Review
 
 ## 🛠️ My Skills
 
