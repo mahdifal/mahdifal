@@ -49,6 +49,7 @@
 <p align="left"> 
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg"> </code>
 </p>
 
 ### 👉 Frontend Development
@@ -70,9 +71,10 @@
 <p align="left">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
     <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg"> </code>
 </p>
 
 ### 👉 Databases
@@ -80,6 +82,7 @@
 <p align="left">
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"> </code>
 </p>
 
 ### 👉 Software & Tools
