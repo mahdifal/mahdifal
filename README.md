@@ -45,7 +45,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
+[//]: # (https://github.com/devicons/devicon/tree/master/icons) 
 <p align="left"> 
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </code>
@@ -64,6 +64,7 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vitejs/vitejs-original.svg"> </code>
 </p>
 
 ### 👉 Backend Development
