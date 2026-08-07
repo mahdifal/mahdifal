@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    Software Engineer with 7+ years of experience specializing in frontend development. Proven expertise in building scalable web applications and mobile solutions using modern JavaScript technologies. Strong full-stack capabilities with React, React Native, Node.js, and Spring Boot, complemented by excellent communication skills and team leadership experience.
+    Software Engineer with 8+ years of experience specializing in frontend development. Proven expertise in building scalable web applications and mobile solutions using modern JavaScript technologies. Strong full-stack capabilities with React, React Native, Node.js, and Spring Boot, complemented by excellent communication skills and team leadership experience.
   </em>
 </p>
 
